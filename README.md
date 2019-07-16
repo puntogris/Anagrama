@@ -1,2 +1,2 @@
 # anagrama
-Anagrama hecho en python
+Anagrama hecho en python.
